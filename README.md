@@ -10,4 +10,4 @@ padding
 googlefonts
 <br>
 container
- <img src: https://github.com/GustaJSS/tela_login_ui/blob/main/img/tela%20ui.png> 
+ <img src="https://github.com/GustaJSS/tela_login_ui/blob/679d2a2429af9f07791f67fc82eb4f25627e4f81/img/tela%20ui.png"> 
