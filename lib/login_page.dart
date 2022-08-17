@@ -76,7 +76,7 @@ class _LoginPageState extends State<LoginPage> {
               ),
 
               SizedBox(
-                height: 10,
+                height: 11,
               ),
 
               Padding(
